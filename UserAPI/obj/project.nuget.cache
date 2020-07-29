@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PR7TgmdoI0lD3Ojs8xV9MMehd/1ok9loRRSyqAe3YFks+YAeDbwQsbBqIXm4z02kG/ZyYXlY719KM1DeFtn+w==",
+  "success": true,
+  "projectFilePath": "D:\\Bench\\Microservice Kubernetes\\UserAPI\\UserAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anuj1822\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
